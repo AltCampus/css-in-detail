@@ -363,6 +363,8 @@ I am not going in details of relative lengths here, just introducing you with al
 5. REM is a relative unit or absolute unit? Why?
 6. How do we apply transparency to the color?
 
+## Do the exercise1
+
 ## Additional Resources
 
 1. https://learn.shayhowe.com/html-css/getting-to-know-css/
