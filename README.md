@@ -24,7 +24,7 @@ We have a number of options when it comes to using a browser. We have Chrome, Sa
 Being a web developer you'll always want to target your all user. Not just the Chrome or Firefox user. You'll always want to show similar styles to all the user for your websites. To ensure cross-browser similarities CSS resets is widely used.
 CSS resets takes all the element and provides unified styles for all browser. It removes all the default sizing, margin, padding and all the additional styles from the element.
 
-There are a bunch of CSS resets, and each has their own styles. One of the most popular is Eric Meyer’s reset.
+There are a bunch of CSS resets, and each has their own styles. One of the most popular is [Eric Meyer’s reset](https://meyerweb.com/eric/tools/css/reset/).
 
 ```
 /* http://meyerweb.com/eric/tools/css/reset/
