@@ -377,7 +377,7 @@ We are not going in details with relative lengths here, just an introducing to a
 5. REM is a relative unit or absolute unit? Why?
 6. How do we apply transparency to the color?
 
-## Do the exercise1
+## [Do the exercise1](https://github.com/AltCampus/css-in-detail/tree/master/exercise1)
 
 ## Additional Resources
 
